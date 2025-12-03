@@ -2,7 +2,7 @@
 %{
   title: "Soup GF/DF/V",
   prices: "$5.95",
-  tags: ~w(Soup Sides Gluten-free Dairy-free Vegan),
+  tags: ~w(soup sides gluten-free dairy-free vegan),
   description: "Yams, carrots, coconut milk, ginger & curry A little bit of spice & everything nice. Gluten-free. Dairy free. Vegan.",
   image: "/images/soup.jpg"
 }
