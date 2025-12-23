@@ -1,6 +1,6 @@
 %{
   title: "Soupe à la tomate",
-  prices: "$9.99",
+  prices: "12.06 €",
   tags: ["entrée"],
   description: "Tomate + eau + sel",
   image: "/images/menu/soupe-tomate.png",
