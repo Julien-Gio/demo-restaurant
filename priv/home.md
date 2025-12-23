@@ -26,14 +26,14 @@
 
 
 %{
-  site_name: "LocalCafe.org Lite",
+  site_name: "Demo Laeti Cuisine",
   title: "Home",
-  description: "A static site generator for local restaurants and cafes",
+  description: "Un site de demo pour le restaurant de Laetitia.",
   image: "/images/example-logo.png",
   logo: "/images/example-logo.png",
   hero: ["Example hero text line 1", "Examle Hero text line 2"],
   hero_image: "/images/example-hero.png",
-  domain: "https://lite.localcafe.org/",
+  domain: "https://julien-gio.github.io/demo-restaurant/",
   social_links: [
     instagram: "https://instagram.com/example",
     facebook: "https://facebook.com/example",
