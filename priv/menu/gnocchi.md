@@ -27,7 +27,7 @@
   prices: "$12.99",
   tags: ["plats", "pates"],
   description: "Les gno-gno, les ki-ki.",
-  image: "/images/gnocchi.png",
+  image: "/images/menu/gnocchi.png",
   position: 0
 }
 ---
