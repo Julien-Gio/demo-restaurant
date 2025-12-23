@@ -1,15 +1,15 @@
 %{
-  title: "Gnocchi al funghi",
-  prices: "$12.99",
-  tags: ["plats chauds"],
-  description: "Les gno-gno, les ki-ki.",
-  image: "/images/menu/gnocchi.jpg",
+  title: "Soupe à la tomate",
+  prices: "$9.99",
+  tags: ["entrée"],
+  description: "Tomate + eau + sel",
+  image: "/images/menu/soupe-tomate.png",
   position: 100
 }
 
 ---
 
-## Gnocchi al funghi
+## Soupe à la tomate
 
 Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
