@@ -1,15 +1,18 @@
+
+
 %{
-  title: "Gnocchi al funghi",
-  prices: "$12.99",
-  tags: ["plats", "pates"],
-  description: "Les gno-gno, les ki-ki.",
-  image: "/images/menu/gnocchi.jpg",
-  position: 100
+  title: "Laetitia Spritz",
+  prices: "9.5€",
+  tags: ["drink", "spritz"],
+  description: "Liqueur de gingembre, Prosecco, Perrier, tranche d'orange.
+  La spécialité du chef.",
+  image: "/images/drinks/spritz-ginger.png",
+  position: 3
 }
 
 ---
 
-## Gnocchi al funghi
+## Limoncello Spritz
 
 Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 

@@ -1,15 +1,18 @@
+
+
 %{
-  title: "Gnocchi al funghi",
-  prices: "$12.99",
-  tags: ["plats", "pates"],
-  description: "Les gno-gno, les ki-ki.",
-  image: "/images/menu/gnocchi.jpg",
-  position: 100
+  title: "Limoncello Spritz",
+  prices: "9.5€",
+  tags: ["drink", "spritz"],
+  description: "Limoncello Walcher, Procecco, Perrier, rondelle de citron.
+  Pour les audacieux.",
+  image: "/images/drinks/spritz-limoncello.png",
+  position: 2
 }
 
 ---
 
-## Gnocchi al funghi
+## Limoncello Spritz
 
 Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
