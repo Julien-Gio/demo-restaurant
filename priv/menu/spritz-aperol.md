@@ -23,16 +23,17 @@
 
 
 %{
-  title: "Tea",
-  prices: "$3.99",
-  tags: ["drink", "cold"],
-  description: "Espresso is a concentrated coffee drink made by forcing hot, high-pressure water through finely-ground coffee beans.",
+  title: "Aperol Spritz",
+  prices: "8.5€",
+  tags: ["drink", "spritz"],
+  description: "Aperol, Prosecco, Perrier, tranche d'orange.
+  Le classique.",
   image: "/images/example-item.png",
   position: 0
 }
 ---
 
-## This is a H2 tag
+## Aperol Spritz
 
 Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 

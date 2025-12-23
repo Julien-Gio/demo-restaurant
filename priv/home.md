@@ -31,7 +31,7 @@
   description: "Un site de demo pour le restaurant de Laetitia.",
   image: "/images/example-logo.png",
   logo: "/images/example-logo.png",
-  hero: ["Example hero text line 1", "Examle Hero text line 2"],
+  hero: ["Le nouveau site du restaurant !", "Ceci est un test."],
   hero_image: "/images/example-hero.png",
   domain: "https://julien-gio.github.io/demo-restaurant/",
   social_links: [
@@ -42,11 +42,11 @@
 }
 ---
 
-## This is a H2 tag
+## Venez vous régalez à Eculy
 
-Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+On peut y manger et y boire. Venez
 
-### This is a H3 tag
+### Test test test
 
 Sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 

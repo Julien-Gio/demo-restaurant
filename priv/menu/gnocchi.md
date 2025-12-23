@@ -23,16 +23,16 @@
 
 
 %{
-  title: "Coffee",
-  prices: ["Small Cup": "$2.99", "Large Cup": "$3.99"],
-  tags: ["drink", "hot"],
-  description: "Espresso is a concentrated coffee drink made by forcing hot, high-pressure water through finely-ground coffee beans.",
-  image: "/images/example-item.png",
+  title: "Gnocchi al funghi",
+  prices: "$12.99",
+  tags: ["plats", "pates"],
+  description: "Les gno-gno, les ki-ki.",
+  image: "/images/gnocchi.png",
   position: 0
 }
 ---
 
-## This is a H2 tag
+## Gnocchi al funghi
 
 Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
